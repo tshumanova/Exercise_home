@@ -8,5 +8,5 @@ public class ProjectsCreation_07 {
 
         int hour =3*age;
         System.out.println("The architect " + firstName+" " + "will need " + hour+" hours" +" to complete " + age+" project/s.");
-    }
+    } //Test
 }
